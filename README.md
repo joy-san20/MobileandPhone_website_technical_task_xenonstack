@@ -1,6 +1,7 @@
 
 # MobileandPhone_website_technical_task_xenonstack
 <br>
+
 # About the project
   <b> This is the basic E-Commerce structure website for mobile phone.<br>
   Basic task of the projects
@@ -9,6 +10,7 @@
   3.  HomePage
   4.  Contact Us Page 
 <br>
+
 # Installation
   <b>1. Install python on your system.  <br>
      2. Go to the terminal of any IDE <br>
@@ -16,12 +18,14 @@
         To check if the django is install or not, run command <center>python -m django --version</center>
 </b>
 <br>
+
 # Usage
 
 <b>After installation run the following command that will install all dependencies that are used in this project.<br>
 pip install -r requirements.txt</b>
 
 <br>
+
 # Functionality of the websites: <b>
   1. Email OTP User Registration  <br>
   2. Login module [ validating the user ] <br>
@@ -31,10 +35,13 @@ pip install -r requirements.txt</b>
  
   </b>
   <br>
-  # Dependencies 
+
+# Dependencies 
   For the database connectivity, PostgreSQL is used, <br>as the connection made with online DB so whenever the app start it connects to the database easily.
   <br><br>
-  # Screenshots
+
+
+# Screenshots
   <br>
   <b>The Registration Page 
   
